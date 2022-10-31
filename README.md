@@ -1,2 +1,2 @@
 # Numerical-Assignments-Classical-Mechanics-TFY4345-
-Numerical Assignments given in the course Classical Mechanics (TFY4345) fall 2022
+Numerical Assignments given in the course Classical Mechanics (TFY4345) fall 2022. In the first assignment, we explore the physics of baseball and golf, looking at how the shape of the balls affects their trajectories. In the second assignment, we look at the motion of a projectile thrown from a trebuchet. The equations of motion are derived from lagrangian mechanics. 
